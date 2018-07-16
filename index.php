@@ -3,13 +3,13 @@
 <html lang="en">
 <head>
    <title>Blood Pressure Monitor</title>
-	<meta charset="utf-8">
+   <meta charset="utf-8">
    <META name="description" content="">
    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
    <meta name="viewport" content="width=device-width, initial-scale=1">
    <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css">
-	<link rel="stylesheet" type="text/css" href="maincss.css">
-	<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+   <link rel="stylesheet" type="text/css" href="maincss.css">
+   <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
    <link rel="icon" href="/favicon.ico" type="image/x-icon">
 </head>
 
