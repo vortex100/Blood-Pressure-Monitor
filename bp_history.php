@@ -3,13 +3,13 @@
 <html lang="en">
 <head>
    <title>Blood Pressure History</title>
-	<meta charset="utf-8">
+   <meta charset="utf-8">
    <META name="description" content="">
    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
    <meta name="viewport" content="width=device-width, initial-scale=1">
    <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css">
-	<link rel="stylesheet" type="text/css" href="maincss.css">
-	<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+   <link rel="stylesheet" type="text/css" href="maincss.css">
+   <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
    <link rel="icon" href="/favicon.ico" type="image/x-icon">
 </head>
 
@@ -17,10 +17,10 @@
 &nbsp;<br>
 
 <div class="container">
-	<div class="row">
-	   <div class="col-sm-6">
-	      <a href="index.php"><img src="images/bp_logo1.jpg" class="img-responsive center-block" width="162" height="148" alt="bp_logo1"></a>
-	   </div>
+   <div class="row">
+      <div class="col-sm-6">
+         <a href="index.php"><img src="images/bp_logo1.jpg" class="img-responsive center-block" width="162" height="148" alt="bp_logo1"></a>
+      </div>
 		<div class="col-sm-6">
 			<h1 class="text-center">Blood Pressure Monitor</h1><p style="text-align: center;">for Robert Lattery</p>
 	   </div>
