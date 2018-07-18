@@ -21,12 +21,12 @@
       <div class="col-sm-6">
          <a href="index.php"><img src="images/bp_logo1.jpg" class="img-responsive center-block" width="162" height="148" alt="bp_logo1"></a>
       </div>
-		<div class="col-sm-6">
-			<h1 class="text-center">Blood Pressure Monitor</h1><p style="text-align: center;">for Robert Lattery</p>
-	   </div>
-	</div>
+      <div class="col-sm-6">
+         <h1 class="text-center">Blood Pressure Monitor</h1><p style="text-align: center;">for Robert Lattery</p>
+      </div>
+   </div>
    <div class="row" style="margin-top: 20px;">
-		<div class="col-sm-2">
+      <div class="col-sm-2">
 		   &nbsp;
 	   </div>
 	   <div class="col-sm-8" style="border: solid 1px #DDDDDD; margin-bottom: 20px;">
@@ -111,8 +111,8 @@
 		</div>
 		<div class="col-sm-2">
 		  &nbsp;
-		</div>
-	</div>
+      </div>
+   </div>
 </div>
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
